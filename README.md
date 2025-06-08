@@ -1,6 +1,6 @@
 # Resin 3D printed PCB stencil
 
-**Introduction**
+## Introduction
 
 This project explores a fast and DIY-friendly method of creating PCB stencils using a DLP resin 3D printer. The goal was to find out whether it’s possible to print functional stencils for applying solder paste directly onto PCBs—without relying on outsourced laser-cut stainless steel or mylar stencils.
 
@@ -8,7 +8,7 @@ While professionally made stencils are relatively affordable, I wanted to experi
 
 ---
 
-**Preparing files**
+## Preparing files
 
 Once you’ve designed your PCB—or even if you’ve already ordered one, open your board file in your PCB design software. In my case, I used KiCad 9.0.
 
