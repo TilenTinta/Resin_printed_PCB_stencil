@@ -5,6 +5,7 @@
 This project explores a fast and DIY-friendly method of creating PCB stencils using a DLP resin 3D printer. The goal was to find out whether it’s possible to print functional stencils for applying solder paste directly onto PCBs—without relying on outsourced laser-cut stainless steel or mylar stencils.
 
 While professionally made stencils are relatively affordable, I wanted to experiment with a self-made alternative that could save both time and cost in the long run. Plus, let's be honest—there’s something satisfying about solving hardware problems with a 3D printer and a bit of curiosity.
+
 ---
 
 **Preparing files**
