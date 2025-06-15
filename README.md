@@ -41,9 +41,9 @@ Import the STL file into your resin printer slicer. In my case, I used **Anycubi
 A key detail is **not to use a longer bottom exposure setting**. Longer exposure on the bottom layers will cause a wider base, which affects fine details on the first layer.  
 I use the **same exposure time for the first layer as for all other layers** to maintain consistency and detail accuracy. To get this setting right use a trial-and-error approach. 
 
-The settings I used work for me but may need to be tuned further for different printers or resins. What I used in this test was:
-   - Printer: **Anycubic Photon Mono X 6Ks**
-   - Resin: **Phrozen Water-Washable Resin Grey**.
+    The settings I used work for me but may need to be tuned further for different printers or resins. What I used in this test was:
+    - Printer: **Anycubic Photon Mono X 6Ks**
+    - Resin: **Phrozen Water-Washable Resin Grey**
 
 #### Slice Parameters
 
