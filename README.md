@@ -71,7 +71,7 @@ Be prepared for a lot of mess and several failed prints. Let say it’s part of 
 
 ![Failed attempts](https://github.com/TilenTinta/Resin_printed_PCB_stencil/blob/main/Images/PXL_20250601_204526796.jpg)
 
-Once you get a **good** result, clean the part carefully becouse it’s very fragile, especially in areas where components are close together or there are many holes.
+Once you get a "good" result, clean the part carefully becouse it’s very fragile, especially in areas where components are close together or there are many holes.
 
 Before curing, place the part between two **preheated panes of glass**. This softens the resin during the curing process and helps prevent the stencil from warping. I used a **soldering rework hot plate** to preheat the glass.
 
@@ -79,7 +79,7 @@ Before curing, place the part between two **preheated panes of glass**. This sof
 
 Curing is the next step that needs to be fine-tuned. I cured my part for **5 minutes** on a spinning table using the **Anycubic Wash & Cure 3.0 Plus**.
 
-The final result is a **flat and detailed stencil** made out of resin.
+The final result is a flat and detailed stencil** made out of resin.
 
 ![Final stencil](https://github.com/TilenTinta/Resin_printed_PCB_stencil/blob/main/Images/PXL_20250601_203752330.jpg)
 
