@@ -37,12 +37,13 @@ Now it's time to create the 3D model for the stencil. I used **Fusion 360 (Hobby
 Import the STL file into your resin printer slicer. In my case, I used **Anycubic Photon Workshop**. This part can be tricky, as the process varies from printer to printer and resin to resin.
 
 1. Lay the model flat on the build plate and **do not** use any supports that lift the model off the surface.
-2. Open the resin settings and modify them as needed. The settings I used work for me but may need to be tuned further for different printers or resins.
-   - The resin I used was **Phrozen Water-Washable Resin Grey**.
-   - The printer I userd was **Anycubic Photon Mono X 6Ks**
-3. Slice the file using the parameters provided below.  
-   A key detail is **not to use a longer bottom exposure setting**. Longer exposure on the bottom layers will cause a wider base, which affects fine details on the first layer.  
-   I use the **same exposure time for the first layer as for all other layers** to maintain consistency and detail accuracy. To get this setting right use a trial-and-error approach.
+2. Slice the file using the parameters provided below.  
+A key detail is **not to use a longer bottom exposure setting**. Longer exposure on the bottom layers will cause a wider base, which affects fine details on the first layer.  
+I use the **same exposure time for the first layer as for all other layers** to maintain consistency and detail accuracy. To get this setting right use a trial-and-error approach. 
+
+The settings I used work for me but may need to be tuned further for different printers or resins. What I used in this test was:
+   - Printer: **Anycubic Photon Mono X 6Ks**
+   - Resin: **Phrozen Water-Washable Resin Grey**.
 
 #### Slice Parameters
 
