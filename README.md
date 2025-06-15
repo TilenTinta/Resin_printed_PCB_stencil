@@ -65,7 +65,7 @@ I use the **same exposure time for the first layer as for all other layers** to 
 
 ## Printing and post processing
 
-Once you have the sliced file, you can print the stencil. With exposure times that preserve fine details on the first layer, the print will **not stick to the build plate** and that’s okay! The part is so thin that you can easily peel it off **by hand** from the bottom of the vat once printing is done. I know it sounds weird and counterintuitive, but it works.
+Once you have the sliced file, you can print the stencil. With exposure times that preserve fine details on the first layer, the print will **not stick to the build plate** and that’s okay! The part is so thin that you can easily peel it off by hand from the bottom of the vat once printing is done. I know it sounds weird and counterintuitive, but it works.
 
 Be prepared for a lot of mess and several failed prints. Let say it’s part of the process.
 
